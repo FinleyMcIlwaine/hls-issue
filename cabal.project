@@ -6,7 +6,8 @@ allow-newer: *
 source-repository-package
     type: git
     location: https://github.com/input-output-hk/plutus
-    subdir: plutus-core prettyprinter-configurable plutus-contract iots-export plutus-tx plutus-tx-plugin plutus-ledger plutus-ledger-api
+    subdir: plutus-core prettyprinter-configurable plutus-contract plutus-tx plutus-tx-plugin plutus-ledger plutus-ledger-api
+    tag: c551ef8149f44471006e7c3e875c90cc6f9df077
 
 source-repository-package
     type: git

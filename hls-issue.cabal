@@ -22,7 +22,6 @@ library
     , plutus-core -any
     , plutus-ledger -any
     , plutus-contract -any
-    , iots-export -any
     , plutus-tx -any
     , plutus-tx-plugin -any
     , template-haskell -any
