@@ -1,3 +1,3 @@
-# Plutus Sandbox
+# hls-issue
 
-My cooler, not-web-based, more powerful Plutus playground.
+Minimum reproduction of HLS crash loop in VSCode plugin.
